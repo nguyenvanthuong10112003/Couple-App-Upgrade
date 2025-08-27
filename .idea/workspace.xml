@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d3fb4fd-cece-4289-9fba-9c70f59deb61" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="31ci2DuPu4RPxgr2CcThKgUyzZZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ApiApplication.executor": "Debug",
+    "Application.FileServiceApplication.executor": "Debug",
+    "Application.NotificationServiceApplication.executor": "Debug",
+    "Maven.api [clean].executor": "Run",
+    "Maven.file-service [clean].executor": "Run",
+    "Maven.file-service [install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/projects/CoupleApp/notification-service/src/main/java/vn/couple_app/notification_service"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\CoupleApp\notification-service\src\main\java\vn\couple_app\notification_service" />
+      <recent name="F:\projects\CoupleApp\notification-service\src\main\java\vn\couple_app\notification_service\validator" />
+      <recent name="F:\projects\CoupleApp\api\src\main\resources\messages" />
+      <recent name="F:\projects\CoupleApp\api\src\main\resources" />
+      <recent name="F:\projects\CoupleApp\api\src\main\java\vn\couple_app\api\validator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vn.couple_app.notification_service.helper" />
+      <recent name="vn.couple_app.api.dto.request" />
+      <recent name="vn.couple_app.api.dto.response" />
+      <recent name="vn.couple_app.file_service.exception" />
+      <recent name="vn.couple_app.file_service.config" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d3fb4fd-cece-4289-9fba-9c70f59deb61" name="Changes" comment="" />
+      <created>1755829554555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755829554555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/file-service/src/main/java/vn/couple_app/file_service/exception/GlobalExceptionHandler.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
