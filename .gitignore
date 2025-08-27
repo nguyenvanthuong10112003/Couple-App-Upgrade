@@ -1,5 +1,8 @@
+.idea
 be/.idea
 be/api/target
 be/api/src/main/resources/application.yaml
+be/file-service/target
 be/file-service/src/main/resources/application.yaml
+be/notification-service/target
 be/notification-service/src/main/resources/application.yaml
